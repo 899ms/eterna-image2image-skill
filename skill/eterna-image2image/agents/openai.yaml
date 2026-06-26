@@ -1,0 +1,4 @@
+interface:
+  display_name: "ETERNA Image2Image"
+  short_description: "Experimental ETERNA-inspired cinema color and composition for image2image."
+  default_prompt: "Use $eterna-image2image to turn this image into a professional ETERNA-inspired cinema still with restrained color, cinematic composition, and reduced AI feel."
